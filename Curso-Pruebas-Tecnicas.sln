@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ejercicios-CSHARP", "ejercicios-CSHARP", "{97F03E09-584E-48F8-8CA1-469A509F6A5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HolaMundo", "ejercicios-CSHARP\HolaMundo\HolaMundo.csproj", "{C026478A-A2AF-4818-A013-C5A71A03F05C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C026478A-A2AF-4818-A013-C5A71A03F05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C026478A-A2AF-4818-A013-C5A71A03F05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C026478A-A2AF-4818-A013-C5A71A03F05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C026478A-A2AF-4818-A013-C5A71A03F05C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C026478A-A2AF-4818-A013-C5A71A03F05C} = {97F03E09-584E-48F8-8CA1-469A509F6A5C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC9E1363-F1B6-4ACA-B312-54675F256F42}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+{
+  "name": "test-para-ejercicios",
+  "version": "1.0.0",
+  "description": "test con jest para ejercicios de lógica",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "test-para-ejercicios": "file:"
+  }
+}

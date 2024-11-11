@@ -1,0 +1,15 @@
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\bin\Debug\net7.0\HolaMundo.exe
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\bin\Debug\net7.0\HolaMundo.deps.json
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\bin\Debug\net7.0\HolaMundo.runtimeconfig.json
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\bin\Debug\net7.0\HolaMundo.dll
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\bin\Debug\net7.0\HolaMundo.pdb
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\HolaMundo.AssemblyInfo.cs
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\HolaMundo.dll
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\refint\HolaMundo.dll
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\HolaMundo.pdb
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\HolaMundo.genruntimeconfig.cache
+C:\Users\Leonidas\Desktop\Curso-Pruebas-Tecnicas\ejercicios-CSHARP\HolaMundo\obj\Debug\net7.0\ref\HolaMundo.dll
